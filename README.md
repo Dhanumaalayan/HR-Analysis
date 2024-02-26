@@ -29,5 +29,5 @@ Developed visualizations to provide insights into attendance trends, sick leave 
 Insights
 
 1. Overall only 10% of the employees worked work from home
-2. Monday ranks first as most no of employees were present with 93%.
+2. Monday and Tuesday ranks first as most no of employees were present with 93%.
 3. 
