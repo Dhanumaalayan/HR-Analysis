@@ -31,6 +31,7 @@ Insights
 1. Overall only 10% of the employees worked work from home
 2. Monday and Tuesday ranks first as most no of employees were present with 93%.
 3. Employees take work from home on Friday with 13.1%
-4. The WFH% line chart shows the employees Work from home trend for 3 months (April,May and June)
-5. The SL% line chart shows the employees Sick leave trend for 3 months (April,May and June)
+4. The WFH% line chart shows the employees work from home trend for 3 months (April,May and June)
+5. The SL% line chart shows the employees wick leave trend for 3 months (April,May and June)
+6. The Presence% line chart shows the employees present trend for 3 months (April,May and June)
 
