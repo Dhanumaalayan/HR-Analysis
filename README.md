@@ -28,4 +28,5 @@ Developed visualizations to provide insights into attendance trends, sick leave 
 
 Insights
 
-
+1. Overall only 10% of the employees worked work from home
+2. 
