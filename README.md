@@ -25,3 +25,7 @@ Implemented Data Analysis Expressions (DAX) to create key metrics, including att
 Dashboarding with Power BI Desktop:
 Utilized Power BI Desktop to visualize the data and create interactive dashboards.
 Developed visualizations to provide insights into attendance trends, sick leave reasons, WFH vs. WFO percentages, and more.
+
+Insights
+
+
